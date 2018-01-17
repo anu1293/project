@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college >
+ <student>
+ <name>Anupam</name>
+<rollnum>19</rollnum>
+</student>
+<student>
+ <name>atul</name>
+<rollnum>12</rollnum>
+</student>
+<student>
+ <name>Anubhav</name>
+<rollnum>20</rollnum>
+</student>
+<student>
+ <name>arpit</name>
+<rollnum>15</rollnum>
+</student>
+</college>
